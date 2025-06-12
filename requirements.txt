@@ -1,6 +1,7 @@
 streamlit
 langchain
 langchain-core
+langchain_community
 langchain-huggingface
 sentence-transformers
 faiss-cpu
